@@ -8,7 +8,7 @@
 | **Healthcare**<br>*How can we improve diagnosis accuracy while keeping costs under control?* | <br>Improved diagnostic model accuracy by 4%, enriching patient profile and data quality by 18% |
 | **Energy & Supply Chain**<br>*How do we optimize production and delivery while reducing waste?* | <br>Built automated pipelines that cut analysis time by 40% and standardized KPIs across international sites |
 | **Telecom**<br>*Which customers are most likely to churn, and how do we retain them profitably?* | <br>Predicted customer churn using machine learning, helping retention teams increase save rate by 6% |
-| **Consulting & Business Intelligence**<br>*How do we standardize reporting and automate workflows across teams and geographies?* | <br>Automated 80% of workflows and reduced reporting time by 70%, giving leaders faster, actionable insights |
+| **Consulting & Business Intelligence**<br>*How do we standardize reporting and automate workflows across teams and geographies?* | <br>Automated 92% of workflows and reduced reporting time by 70%, giving leaders faster, actionable insights |
 
 ### Tech stack
 
