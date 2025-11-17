@@ -1,4 +1,4 @@
-## PhD and 8+ years in Data Science and Business Intelligence
+## PhD and 9 years in Data Science and Business Intelligence
 *Making data useful, profitable, and actionable.*
 
 ### Key achievements and business impact
